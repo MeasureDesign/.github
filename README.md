@@ -9,7 +9,7 @@
 <h2>Hlavička pro BigQuery skripty</h2>
 <p>Do každého souboru pro BigQuery přidáváme hlavičku s autorem, firemním kontaktem a popisem query.</p>
 <i>
-  /*
+ /*
   ==================================================================================
   Query Title: Sessionization of GA4 data with sources
   Description: This query is designed for defining sessions from GA4 data and attributing sources to them.
